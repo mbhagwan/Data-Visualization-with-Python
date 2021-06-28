@@ -1,1 +1,2 @@
-# Data-Visualization-with-Python
+Lab Exercises
+Course: Data Visualization with Python
