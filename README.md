@@ -1,5 +1,5 @@
-Lab Exercises <br>
+Lab Exercises
 
 Course: Data Visualization with Python
 
-https://cognitiveclass.ai | IBM
+IBM | https://cognitiveclass.ai
