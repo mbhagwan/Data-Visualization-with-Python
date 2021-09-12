@@ -1,7 +1,1 @@
-Click to view files
-
-Content: Lab Exercises
-
-Course: Data Visualization with Python
-
-IBM | https://cognitiveclass.ai
+**Course:** [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
