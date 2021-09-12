@@ -1,4 +1,6 @@
-Lab Exercises
+Click to view files
+
+Content: Lab Exercises
 
 Course: Data Visualization with Python
 
