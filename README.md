@@ -1,5 +1,5 @@
 **Course:** [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python)<br>
-Cognitive Class | IBM
+by: Cognitive Class | IBM
 
 **Course syllabus:**
 
